@@ -6,3 +6,14 @@ It was designed to run on the WavPlay.gb, an Rpi Zero 2W based Handheld device s
 that can be used to sequence sounds. 
 
 If you intrested in working on and improving the software or in buiding your own WavPlay.gb you are in the right Rep ;) 
+
+
+Further informations will be added at a later time
+
+
+To add:
+-Rpi setup guid
+-STL files
+-Build Guide
+-How to use
+-How to add sound 
