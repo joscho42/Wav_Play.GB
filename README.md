@@ -1,19 +1,9 @@
-# Pyquencer
-This is a rep for the Pyquencer python script that runs on the WavPlay.gb aduio sequencer
-Pyquencer is a piece of software that allows you to creat your own song using a 16 step sequencer with up to 6 voices 
+# Wav_Play.GB
 
-It was designed to run on the WavPlay.gb, an Rpi Zero 2W based Handheld device similar to a gameboy 
-that can be used to sequence sounds. 
+#About the project
+This is a rep for the Wav_Play.GB.
 
-If you intrested in working on and improving the software or in buiding your own WavPlay.gb you are in the right Rep ;) 
+The Wav_Play.GB is a handheld Stepsequencer with up to 192 Steps and up too 6 voices.
+It allows you to creat your own sample library and creat tracks on the go all in a familiar form factor.
+At it´s heart is a Raspberry pi Zero 2W
 
-
-Further informations will be added at a later time
-
-
-To add:
--Rpi setup guid
--STL files
--Build Guide
--How to use
--How to add sound 
