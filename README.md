@@ -62,7 +62,7 @@ Close the compartment and you are done.
 
 ![Audio_Input_Video](https://user-images.githubusercontent.com/77835905/219466358-95b15d72-da4f-4a41-ab8e-a165c88f3e51.png)
 
-***Don´t forget to bridge the two pats under the SCK printing on the Headphone Jack board***
+***Don´t forget to bridge the two pads under the SCK printing on the Headphone Jack board***
 
 
 #### Combinig both halves:
