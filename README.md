@@ -37,7 +37,7 @@ Congrats. You are all set. Plug the SD card and USB in your Wav_Play.GB and go w
 
 ## Buildguide
 
-A video build guide can be found here: Insert link
+A video build guide can be found here: https://youtu.be/5e7-cO_Iyow
 
 #### Installing the Battery
 
@@ -74,6 +74,8 @@ If your wav_play.gb doesn´t find your USB you can do a USB Recovery by plugin t
 The device will fix the problem and shut down on it´s own.
 
 Put the USB back into your PC and name it back to PYQUENCER and everything should be fine again.
+
+Video explenation: https://youtu.be/XgMAqk8Z5bY
 
 ## Adding your own library
 
