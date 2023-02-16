@@ -60,8 +60,10 @@ Close the compartment and you are done.
 ![Audio_Input_Video](https://user-images.githubusercontent.com/77835905/219466358-95b15d72-da4f-4a41-ab8e-a165c88f3e51.png)
 
 ** Don´t forget to bridge the two pats under the SCK printing on the Headphone Jack board **
+** Don´t forget to bridge the two pats under the SCK printing on the Headphone Jack board **
+** Don´t forget to bridge the two pats under the SCK printing on the Headphone Jack board **
 
-####Combinig both halves:
+#### Combinig both halves:
 
 When everything is wired up, simply connect the micro usb to usb adapter to the Raspberry and solder in the positif and negative leads to the back of the Raspberry marked 5V and the unmarked pin underneath close to the Power in micro usb port.
 
