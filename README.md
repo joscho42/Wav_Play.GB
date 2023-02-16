@@ -30,3 +30,21 @@ Congrats. You are all set. Plug the SD card and USB in your Wav_Play.GB and go w
 
 ## Buildguide
 
+A video build guide can be found here: Insert link
+
+#### Installing the Battery
+
+Battery installation is highly dependent of the size of your battery. 
+We recoment using a battery with the dimensions: 54x34x10mm
+Those dismensions work perfectly with JRodrigos battery holder design 
+over on Thingivers (https://www.thingiverse.com/thing:1418834)![Power_managment](https://user-images.githubusercontent.com/77835905/219465759-4763771f-11c3-41a5-bc06-043ad4fdbab0.png)
+
+
+Simply guide the two leads of your battery through the little hole on the left of the holder 
+and torugh the hole in the gameboy case. 
+Put the holder and the battery in the compartment using the springs to hold it in place.
+Close the compartment and you are done.
+
+![Power_managment](https://user-images.githubusercontent.com/77835905/219465759-4763771f-11c3-41a5-bc06-043ad4fdbab0.png)
+
+
