@@ -13,7 +13,13 @@ At it´s heart is a Raspberry pi Zero 2W
 It was born out of a University project.
 Find out more on Instagram @wav_play.gb
 
+##Turning the device on and off
 
+To turn the Wav_Play.GB on, simply swich the power switch to the right.
+To turn it off ** dont´t just switch the power switch to the left **
+Go into the menue ofthe pyquencer, navigate to Shut Down and press A.
+Wait until the led on the raspberry is of (the screen will still be on and white).
+Than Switch the power switch to the left.
 
 ## Setting up the SD card and USB
 
@@ -45,6 +51,25 @@ and torugh the hole in the gameboy case.
 Put the holder and the battery in the compartment using the springs to hold it in place.
 Close the compartment and you are done.
 
+#### Wirering of the power side
+
 ![Power_managment](https://user-images.githubusercontent.com/77835905/219465759-4763771f-11c3-41a5-bc06-043ad4fdbab0.png)
 
+#### Wiring of the Audio, Video, and input side: 
+
+![Audio_Input_Video](https://user-images.githubusercontent.com/77835905/219466358-95b15d72-da4f-4a41-ab8e-a165c88f3e51.png)
+
+** Don´t forget to bridge the two pats under the SCK printing on the Headphone Jack board **
+
+####Combinig both halves:
+
+When everything is wired up, simply connect the micro usb to usb adapter to the Raspberry and solder in the positif and negative leads to the back of the Raspberry marked 5V and the unmarked pin underneath close to the Power in micro usb port.
+
+## Troubleshooting
+
+If your wav_play.gb doesn´t find your USB you can do a USB Recovery by plugin the USB into your computer and renaming it USB_REC than pluging it backl in your Wav_Play.GB
+
+The device will fix the problem and shut down on it´s own.
+
+Put the USB back into your PC and name it back to PYQUENCER and everything should be fine again.
 
