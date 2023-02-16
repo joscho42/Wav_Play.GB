@@ -74,3 +74,8 @@ The device will fix the problem and shut down on it´s own.
 
 Put the USB back into your PC and name it back to PYQUENCER and everything should be fine again.
 
+## Adding your own library
+
+This Video explains how to add your own library
+Not uploaded yet
+
