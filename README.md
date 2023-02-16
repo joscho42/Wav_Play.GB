@@ -1,6 +1,6 @@
 # Wav_Play.GB
 
-##About the project
+## About the project
 
 This is a rep for the Wav_Play.GB.
 
@@ -11,7 +11,7 @@ At it´s heart is a Raspberry pi Zero 2W
 It was born out of a University project.
 Find out more on Instagram @wav_play.gb
 
-##Setting up the SD card and USB
+## Setting up the SD card and USB
 
 Fist you will want to set up the SD card. For that you simply need to flash our custom img file using 
 the Raspberry Pi Imager.
