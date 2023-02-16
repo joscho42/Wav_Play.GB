@@ -1,8 +1,8 @@
--Gameboy Gehäuse und knöpfe
+-Gameboy Housing
 -Rasperry pi Zero W2
 -micro sd Karte
 -PCM5102 I2S Digital Audio DAC
--kleiner usb stick minimum 8GB
+-Small usb stick minimum 8GB
 -3.7v 1800mAh Lipo
 -TP4056 Lithium battery charging module
 -MT3608 Voltage Booster
@@ -12,5 +12,6 @@
 -Gameboy Speaker 
 -Gameboy Button PCB 
 -ON/OFF switch 
--Kabel 
-(-3D gedruckte Teile Optional)
+-Cabels
+-3D printed parts
+
