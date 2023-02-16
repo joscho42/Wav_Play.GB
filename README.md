@@ -26,10 +26,12 @@ Than Switch the power switch to the left.
 
 Fist you will want to set up the SD card. For that you simply need to flash our custom img file using 
 the Raspberry Pi Imager.
+Found here: https://drive.google.com/drive/folders/1ieQOY9xSynMFqbqVy8Zn_2mXZG3F-kP7?usp=share_link
 
 To set up the USB first format it to Fat32 and rename it to PYQUENCER (all caps).
-Than Download the Usb_Root folder on github.
-Unzip the Saves, Library and Songs folders and add all the folders of USB_Root to your USB
+Than Download the Usb_Root folder here:
+https://drive.google.com/drive/folders/1ieQOY9xSynMFqbqVy8Zn_2mXZG3F-kP7?usp=share_link
+and add the files to the root of your usb.
 
 Congrats. You are all set. Plug the SD card and USB in your Wav_Play.GB and go wild
 
