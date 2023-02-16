@@ -1,6 +1,7 @@
 # Wav_Play.GB
 
 
+![IMG_1291](https://user-images.githubusercontent.com/77835905/219470370-83eaf44b-e3b2-4163-9d47-d5eda31495f9.JPG)
 
 ## About the project
 
