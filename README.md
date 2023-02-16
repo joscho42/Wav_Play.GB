@@ -1,5 +1,7 @@
 # Wav_Play.GB
 
+
+
 ## About the project
 
 This is a rep for the Wav_Play.GB.
@@ -10,6 +12,8 @@ At it´s heart is a Raspberry pi Zero 2W
 
 It was born out of a University project.
 Find out more on Instagram @wav_play.gb
+
+
 
 ## Setting up the SD card and USB
 
@@ -22,5 +26,7 @@ Unzip the Saves, Library and Songs folders and add all the folders of USB_Root t
 
 Congrats. You are all set. Plug the SD card and USB in your Wav_Play.GB and go wild
 
-##Buildguide
+
+
+## Buildguide
 
