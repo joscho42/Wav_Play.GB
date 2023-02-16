@@ -78,4 +78,4 @@ Put the USB back into your PC and name it back to PYQUENCER and everything shoul
 ## Adding your own library
 
 This Video explains how to add your own library
-Not uploaded yet
+https://www.youtube.com/watch?v=3tRRe0SVF7o
